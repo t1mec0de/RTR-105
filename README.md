@@ -6,5 +6,3 @@ Datormācība(pamatkurss)elektroniskā klade
 >
 ![Welcome to DnD](https://comiczone.ru/wp-content/uploads/2019/10/c433543859742e9843f3269d7c5e89863bb2e13e.png)
 ### Let's play,if you have time and imagination
-### 40 000 000 souls
-![image](https://user-images.githubusercontent.com/56522929/139584018-497e629d-45b6-4619-ade4-7a36d1c53514.png)
