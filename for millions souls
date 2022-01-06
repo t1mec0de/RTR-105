@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(void){
+int a=400000,b=100000
+
+float res;
+
+res = (float)a*b;
+printf("%d * %d = %f*n",a,b,res);
+
+return 0;
+}
